@@ -1,0 +1,1 @@
+./Debug/glew.c.o ./Debug/main.cpp.o ./Debug/model.cpp.o ./Debug/shader.cpp.o ./Debug/object.cpp.o ./Debug/scene.cpp.o ./Debug/collisions.cpp.o   
